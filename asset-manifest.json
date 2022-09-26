@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2a40e78d.css",
+    "main.js": "./static/js/main.30ff0032.js",
+    "static/media/carnaval.png": "./static/media/carnaval.91b5564d726ad0e9bb20.png",
+    "index.html": "./index.html",
+    "main.2a40e78d.css.map": "./static/css/main.2a40e78d.css.map",
+    "main.30ff0032.js.map": "./static/js/main.30ff0032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a40e78d.css",
+    "static/js/main.30ff0032.js"
+  ]
+}
